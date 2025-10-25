@@ -1,0 +1,1 @@
+# Vague-Commit-Message-Maker
